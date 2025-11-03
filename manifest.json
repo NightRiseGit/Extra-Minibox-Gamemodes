@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "MBGE",
+  "name": "MinibloxGamemodes",
   "version": "1.0",
-  "author": "heythereu",
-  "description": "Changes the flags for unleash to re-enable gamemodes ~heythereu",
+  "author": "NightRise",
+  "description": "Changes the flags for unleash to re-enable gamemodes ~NightRise",
   "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
   "host_permissions": ["https://unleash.miniblox.io/*","https://miniblox.io/*","https://miniblox.online/*"],
   "background": { "service_worker": "bg.js" }
