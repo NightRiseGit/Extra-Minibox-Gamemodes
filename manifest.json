@@ -1,9 +1,1 @@
-{
-  "manifest_version": 1,
-  "name": "ExtraMinibloxGamemodes",
-  "version": "1.0",
-  "author": "NightRise",
-  "description": "Changes the flags for unleash to re-enable gamemodes ~NightRise",
-  "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
-  "host_permissions": ["https://unleash.miniblox.io/*","https://miniblox.io/*","https://miniblox.online/*"],
-  "background": { "service_worker": "bg.js" }
+
