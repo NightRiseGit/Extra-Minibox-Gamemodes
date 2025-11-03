@@ -7,4 +7,5 @@
   "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
   "host_permissions": ["https://unleash.miniblox.io/*","https://miniblox.io/*","https://miniblox.online/*"],
   "background": { "service_worker": "bg.js" }
+  
 }
