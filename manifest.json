@@ -6,7 +6,8 @@
   "description": "Extra Games For Miniblox!!",
   "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
   "host_permissions": ["https://unleash.miniblox.io/*","https://miniblox.io/*","https://miniblox.online/*"],
-  "background": { "service_worker": "Miniblox-Regular.woff, Miniblox-Regular.woff2, Miniblox-Regular.otf" }
+  "background": { "service_worker": "bg.js" }
 }
+
 
 
