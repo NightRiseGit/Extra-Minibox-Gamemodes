@@ -5,9 +5,10 @@
   "author": "NightRise",
   "description": "Extra Games For Miniblox!!",
   "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
-  "host_permissions": ["https://unleash.miniblox.io/*","https://miniblox.io/*","https://miniblox.online/*"],
+  "host_permissions": ["https://unleash.miniblox/*","https://miniblox/*","https://miniblox.online/*"],
   "background": { "service_worker": "bg.js" }
 }
+
 
 
 
